@@ -1,0 +1,4 @@
+I hope to be able to write simple scripts to help me organize 
+and plot data from my experiments, including sequencing data. 
+Even just being able to understand what existing scripts are doing
+will be very helpful. 
