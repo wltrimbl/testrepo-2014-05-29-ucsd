@@ -1,4 +1,4 @@
-This is a directory for a test repository created for a class at Notre Dame, July 19, 2013.
+This is a directory for a test repository created for a class at SCRIPPS.
 
 Instructions:  Please create a file:
 1.  In the directory messages
